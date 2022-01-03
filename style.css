@@ -20,6 +20,10 @@ div img {
   width: 100%;
 }
 
+.img-apresentacao {
+  margin-top: 110px;
+}
+
 .flex-container {
   display: flex;
   max-width: 992px;
@@ -56,6 +60,7 @@ header .menu {
   height: 100vh;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 400px;
 }
 .apresentacao .texto-apresentacao {
   min-height: 200px;
